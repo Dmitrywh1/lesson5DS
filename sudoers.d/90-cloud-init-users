@@ -1,0 +1,4 @@
+# Created by cloud-init v. 23.2.2-0ubuntu0~20.04.1 on Mon, 25 Sep 2023 16:51:34 +0000
+
+# User rules for dmitry
+dmitry ALL=(ALL) NOPASSWD:ALL
